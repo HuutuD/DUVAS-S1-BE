@@ -69,7 +69,7 @@ namespace DataAccess
             return servicePost;
         }
 
-        public static async Task SaveservicePostAsync(ServicePost servicePost)
+        public static async Task SaveServicePostAsync(ServicePost servicePost)
         {
             try
             {
